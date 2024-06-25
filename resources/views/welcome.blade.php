@@ -8,7 +8,7 @@
     @vite('resources/css/app.css')
 </head>
 
-<body class="bg-green-50/50">
+<body class="bg-day">
     <header class="ring h-20">
     </header>
     <main class="grid place-content-center ring min-h-dvh">
@@ -19,7 +19,7 @@
                 <p class="leading-7 lg:text-lg">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Tempore voluptas amet corrupti quidem obcaecati possimus sed dolorum mollitia delectus ipsum, facilis dolores quod? Mollitia, maxime repudiandae? Voluptatum, quia excepturi. Dolores.</p>
             </div>
             <span class="flex flex-col lg:flex-row gap-4 lg:justify-center mt-4">
-                <button type="button" class="rounded-md bg-green-600 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-green-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-green-600">Explore My Portfolio</button>
+                <button type="button" class="rounded-md bg-easternblue-600 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-easternblue-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-easternblue-600">Explore My Portfolio</button>
                 <button type="button" class="rounded-md bg-white px-3.5 py-2.5 text-sm font-semibold text-gray-900 shadow-sm ring-1 ring-inset ring-gray-300 hover:bg-gray-50">Let's Connect</button>
             </span>
         </section>
