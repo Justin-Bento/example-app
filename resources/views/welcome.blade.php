@@ -8,10 +8,13 @@
     @vite('resources/css/app.css')
 </head>
 
-<body>
-    <h1 class="text-3xl font-bold underline">
-        Hello world!
-    </h1>
+<body class="p-16">
+    <header class="ring h-20">
+    </header>
+    <main class="my-12 ring min-h-dvh">
+    </main>
+    <footer class="ring h-20">
+    </footer>
 </body>
 
 </html>
